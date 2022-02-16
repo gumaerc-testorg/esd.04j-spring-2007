@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on modeling concepts, hierarchies of models, modeling issues,
   why we model, and issues in model building.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/05edda696531a2a2992b43df8432cc3f_lec15.pdf
+file: /media/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/05edda696531a2a2992b43df8432cc3f_lec15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec15.pdf
 uid: 05edda69-6531-a2a2-992b-43df8432cc3f

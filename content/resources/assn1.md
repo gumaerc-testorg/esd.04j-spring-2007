@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/d3e33a6fe80cad8eca34ace4828ac344_assn1.pdf
+file: /media/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/d3e33a6fe80cad8eca34ace4828ac344_assn1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn1.pdf
 uid: d3e33a6f-e80c-ad8e-ca34-ace4828ac344
