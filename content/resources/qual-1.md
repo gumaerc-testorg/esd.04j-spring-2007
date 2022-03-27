@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 15724096-4983-6c5d-8c77-a0075f620a03
 resourcetype: Document
 title: qual.pdf
 uid: 8ef2469e-10a8-4447-14e1-095fe155aca5

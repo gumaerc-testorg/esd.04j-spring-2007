@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 15724096-4983-6c5d-8c77-a0075f620a03
 resourcetype: Document
 title: qual_review.pdf
 uid: df66910d-e8fd-1967-d308-8d80d98aa81a

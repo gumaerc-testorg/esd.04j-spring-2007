@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 15724096-4983-6c5d-8c77-a0075f620a03
 resourcetype: Document
 title: prelim_goals.pdf
 uid: 86043289-7985-6463-2468-34a8924b210c

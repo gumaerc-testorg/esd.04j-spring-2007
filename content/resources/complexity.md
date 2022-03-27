@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a9c24229-80cd-1558-6525-3226d202e9be
 resourcetype: Document
 title: complexity.pdf
 uid: c17a5e1f-ecf4-d582-a51c-d5eba49bb5b5

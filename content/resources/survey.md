@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 15724096-4983-6c5d-8c77-a0075f620a03
 resourcetype: Document
 title: survey.pdf
 uid: 0ccb0f6a-bd96-3b71-5f13-27ee8793e201

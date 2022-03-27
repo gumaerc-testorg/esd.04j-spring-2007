@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a9c24229-80cd-1558-6525-3226d202e9be
 resourcetype: Document
 title: clios_process.pdf
 uid: c0c814a1-8f15-78c6-5e14-b8d5b10836cf
