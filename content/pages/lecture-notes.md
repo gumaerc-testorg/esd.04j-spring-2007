@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of lecture topics with links to lecture
+  notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Systems: What is a system and why you need to know about it, introduction to sys
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: Classes of systems (technical, sociotechnical, engineering systems) ([PDF]({{< baseurl >}}/resources/lec2))
+Systems: Classes of systems (technical, sociotechnical, engineering systems) ({{% resource_link 08b8a1b9-4793-e638-fb95-0744b25f0ad3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +80,7 @@ Project: Introduction to Spent Nuclear Fuel (SNF), the big issues and questions,
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: CLIOS process ([PDF]({{< baseurl >}}/resources/lec6))
+Systems: CLIOS process ({{% resource_link 872d7f0b-0f9b-1b3d-385f-3dae95ba1398 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ Systems: CLIOS process ([PDF]({{< baseurl >}}/resources/lec6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: CLIOS process (cont.) ([PDF]({{< baseurl >}}/resources/lec7))
+Systems: CLIOS process (cont.) ({{% resource_link fce4ae87-2c49-0fc5-43db-59a1b9b7d8a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Project: Review of P1 and instructor synthesis of P1; getting organized for the 
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: Critical Contemporary Issues (CCI) ([PDF]({{< baseurl >}}/resources/lec9))
+Systems: Critical Contemporary Issues (CCI) ({{% resource_link 44e7db03-c98f-a3cd-3e6b-7086617914f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +116,7 @@ Systems: Critical Contemporary Issues (CCI) ([PDF]({{< baseurl >}}/resources/lec
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: What is design? What do we mean by a system design? ([PDF]({{< baseurl >}}/resources/lec10))
+Systems: What is design? What do we mean by a system design? ({{% resource_link 49f53919-b341-8c49-4a0e-bbeb787092ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +125,7 @@ Systems: What is design? What do we mean by a system design? ([PDF]({{< baseurl 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: More on system design, the design aspects of the CLIOS process ([PDF 1]({{< baseurl >}}/resources/lec11a)) ([PDF 2]({{< baseurl >}}/resources/lec11b))
+Systems: More on system design, the design aspects of the CLIOS process ({{% resource_link a4596486-6a53-a113-46ee-fabe242319aa "PDF 1" %}}) ({{% resource_link 46af0d95-f6f1-e69f-4062-a4cf01ad751e "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +152,7 @@ Mid-term quiz
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: Models and frameworks ([PDF 1]({{< baseurl >}}/resources/lec14a)) ([PDF 2]({{< baseurl >}}/resources/lec14b))
+Systems: Models and frameworks ({{% resource_link cd85cd55-a093-cfbd-c5bd-a2c696af46cd "PDF 1" %}}) ({{% resource_link fd1c6428-de3a-d2fc-6d8d-82a7e55f7ebe "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Systems: Models and frameworks (cont.)
 
 Discussion of midterm
 
-Project: Team meetings on P2 ([PDF]({{< baseurl >}}/resources/lec15))
+Project: Team meetings on P2 ({{% resource_link 05edda69-6531-a2a2-992b-43df8432cc3f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -227,7 +229,7 @@ Systems: CLIOS stage 3 — implementation
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: Scenario planning ([PDF]({{< baseurl >}}/resources/lec21))
+Systems: Scenario planning ({{% resource_link 8707ead4-126a-60e4-aa65-569e79d2f02f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +247,7 @@ Project: Team meetings with Department of Energy secretary to review progress an
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Systems: System dynamics 101 ([PDF]({{< baseurl >}}/resources/lec23))
+Systems: System dynamics 101 ({{% resource_link 1ee1403e-66dd-1162-0b11-f677d6984554 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

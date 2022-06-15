@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview of the course and information about
+  student work, academic honesty and performance policy, and recommended citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

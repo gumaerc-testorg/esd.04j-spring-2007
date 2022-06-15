@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,9 +30,9 @@ Individual assignments
 {{< tdopen >}}
 
 
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1))
+Assignment 1 ({{% resource_link d3e33a6f-e80c-ad8e-ca34-ace4828ac344 "PDF" %}})
 
-Assignment 2 ([PDF]({{< baseurl >}}/resources/assn2))
+Assignment 2 ({{% resource_link 6257338e-a48b-b664-d6b7-decc4558e4a1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -44,9 +45,9 @@ Surveys and summaries
 {{< tdopen >}}
 
 
-Possible specialty areas ([PDF]({{< baseurl >}}/resources/survey))
+Possible specialty areas ({{% resource_link 0ccb0f6a-bd96-3b71-5f13-27ee8793e201 "PDF" %}})
 
-Preliminary goals ([PDF]({{< baseurl >}}/resources/prelim_goals))
+Preliminary goals ({{% resource_link 86043289-7985-6463-2468-34a8924b210c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -59,11 +60,11 @@ Project assignments
 {{< tdopen >}}
 
 
-Project 1 ([PDF]({{< baseurl >}}/resources/project1))
+Project 1 ({{% resource_link 7e32fd67-a824-ba4b-72cd-7718b7626d02 "PDF" %}})
 
-Project 2 ([PDF]({{< baseurl >}}/resources/project2))
+Project 2 ({{% resource_link 5dd2ff66-a352-c41c-b1bf-821ab435e8a9 "PDF" %}})
 
-Project 3 ([PDF]({{< baseurl >}}/resources/project3))
+Project 3 ({{% resource_link f02027d0-e3cf-cccf-e4f7-c8f4c03a6a8a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -74,7 +75,7 @@ Project 3 ([PDF]({{< baseurl >}}/resources/project3))
 Project solutions
 {{< tdclose >}}
 {{< tdopen >}}
-Qualifying problem part of project 3: solutions ([PDF]({{< baseurl >}}/resources/qual-1)), spreadsheet ([XLS]({{< baseurl >}}/resources/qual))
+Qualifying problem part of project 3: solutions ({{% resource_link 8ef2469e-10a8-4447-14e1-095fe155aca5 "PDF" %}}), spreadsheet ({{% resource_link 12b32a43-7945-98b5-c1dd-9863550c77b4 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,9 +86,9 @@ Project review presentations
 {{< tdopen >}}
 
 
-Project 1 review ([PDF]({{< baseurl >}}/resources/project1_review))
+Project 1 review ({{% resource_link 5af5e346-9e3e-8a13-0d37-b48a6eed6734 "PDF" %}})
 
-Qualifying problem review ([PDF]({{< baseurl >}}/resources/qual_review))
+Qualifying problem review ({{% resource_link df66910d-e8fd-1967-d308-8d80d98aa81a "PDF" %}})
 
 
 {{< tdclose >}}
