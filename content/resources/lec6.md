@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec6.pdf
 uid: 872d7f0b-0f9b-1b3d-385f-3dae95ba1398
 ---
 Lecture notes on the CLIOS process.
-

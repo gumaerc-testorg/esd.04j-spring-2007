@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: survey.pdf
 uid: 0ccb0f6a-bd96-3b71-5f13-27ee8793e201
 ---
 Survey of possible specialty areas.
-

@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: systems.pdf
 uid: 6197957a-79e6-8158-6536-64aa9ae32e50
 ---
 A list of Engineering Systems References
-

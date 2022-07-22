@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Diagram of the CLIOS system world view.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-04js07-th.jpg
 uid: 539c5e63-2f29-283c-2f2e-c38deefbc62d
 ---
 New image Upload
-

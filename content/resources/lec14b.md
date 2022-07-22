@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14b.pdf
 uid: fd1c6428-de3a-d2fc-6d8d-82a7e55f7ebe
 ---
 Lecture notes about models and frameworks. Models are mathematical abstractions of a system. Frameworks are qualitative abstractions for analyzing a system.
-

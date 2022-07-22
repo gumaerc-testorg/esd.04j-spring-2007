@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: project1.pdf
 uid: 7e32fd67-a824-ba4b-72cd-7718b7626d02
 ---
 Guidelines for completing the first group project assignment.
-

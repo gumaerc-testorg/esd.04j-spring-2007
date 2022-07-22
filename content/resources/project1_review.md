@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: project1_review.pdf
 uid: 5af5e346-9e3e-8a13-0d37-b48a6eed6734
 ---
 Project review presentation for the first project of the course.
-

@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn2.pdf
 uid: 6257338e-a48b-b664-d6b7-decc4558e4a1
 ---
 Homework assignment to describe a particular system and to use that system as a way of further developing systems thinking skills.
-

@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: Diagram of the CLIOS system world view.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-04js07.jpg
 uid: cb708f01-a05d-5042-adbd-279a58a4aa3d
 ---
 This class includes a design project based on a CLIOS (complex, large-scale, interconnected, open, and sociotechnical) system. (Image by MIT OpenCourseWare, adapted from Prof. Joseph Sussman.)
-

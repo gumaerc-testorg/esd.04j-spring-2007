@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec9.pdf
 uid: 44e7db03-c98f-a3cd-3e6b-7086617914f6
 ---
 Lecture notes on thinking outside the box for Critical Contemporary Issues (CCI).
-

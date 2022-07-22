@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: clios_process.pdf
 uid: c0c814a1-8f15-78c6-5e14-b8d5b10836cf
 ---
 This user's guide to the CLIOS Process is the key text for the course.
-

@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec21.pdf
 uid: 8707ead4-126a-60e4-aa65-569e79d2f02f
 ---
 Lecture notes on scenario planning. Includes introductory concepts and the Schwartz approach.
-

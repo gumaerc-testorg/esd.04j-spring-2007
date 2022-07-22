@@ -5,6 +5,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prelim_goals.pdf
 uid: 86043289-7985-6463-2468-34a8924b210c
 ---
 A list of goals for each of the groups of the Spent Nuclear Fuels project.
-

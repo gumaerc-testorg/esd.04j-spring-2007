@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: complexity.pdf
 uid: c17a5e1f-ecf4-d582-a51c-d5eba49bb5b5
 ---
 Full text of MIT Engineering Division working paper on complexity in systems.
-

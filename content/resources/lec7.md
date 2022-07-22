@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec7.pdf
 uid: fce4ae87-2c49-0fc5-43db-59a1b9b7d8a8
 ---
 Lecture notes on stage 2 of the CLIOS process: design, evaluation, and selection.
-

@@ -6,6 +6,7 @@ file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec10.pdf
 uid: 49f53919-b341-8c49-4a0e-bbeb787092ff
 ---
 Lecture notes on CLIOS Process and systems: What is design? What do we mean by a system design?
-
