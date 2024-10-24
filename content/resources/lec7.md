@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on stage 2 of the CLIOS process: design, evaluation, and
   selection.'
-file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/fce4ae872c490fc543db59a1b9b7d8a8_lec7.pdf
+file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/fce4ae872c490fc543db59a1b9b7d8a8_lec7.pdf
 file_size: 276504
 file_type: application/pdf
 learning_resource_types:
