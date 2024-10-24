@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of goals for each of the groups of the Spent Nuclear Fuels project.
-file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/8604328979856463246834a8924b210c_prelim_goals.pdf
+file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/8604328979856463246834a8924b210c_prelim_goals.pdf
 file_size: 22019
 file_type: application/pdf
 learning_resource_types:
