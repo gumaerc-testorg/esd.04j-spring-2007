@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: In-class Midterm Exam from 2006.
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/6ccdf9609862868ccf387bd4b66e2191_midterm06.pdf
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/6ccdf9609862868ccf387bd4b66e2191_midterm06.pdf
 file_size: 14787
 file_type: application/pdf
 learning_resource_types:
