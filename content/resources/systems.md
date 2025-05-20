@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of Engineering Systems References
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/6197957a79e68158653664aa9ae32e50_systems.pdf
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/6197957a79e68158653664aa9ae32e50_systems.pdf
 file_size: 97826
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/f6a064823c94a10f22000575388f1999_chp_cliossysytem.jpg
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/f6a064823c94a10f22000575388f1999_chp_cliossysytem.jpg
 file_size: 38962
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the CLIOS process.
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/872d7f0b0f9b1b3d385f3dae95ba1398_lec6.pdf
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/872d7f0b0f9b1b3d385f3dae95ba1398_lec6.pdf
 file_size: 445777
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for completing the third group project assignment.
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/f02027d0e3cfcccfe4f7c8f4c03a6a8a_project3.pdf
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/f02027d0e3cfcccfe4f7c8f4c03a6a8a_project3.pdf
 file_size: 181974
 file_type: application/pdf
 learning_resource_types:
