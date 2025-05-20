@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on thinking outside the box for Critical Contemporary Issues
   (CCI).
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/44e7db03c98fa3cd3e6b7086617914f6_lec9.pdf
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/44e7db03c98fa3cd3e6b7086617914f6_lec9.pdf
 file_size: 86605
 file_type: application/pdf
 learning_resource_types:

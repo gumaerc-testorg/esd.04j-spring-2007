@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for completing the first group project assignment.
-file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/7e32fd67a824ba4b72cd7718b7626d02_project1.pdf
+file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/7e32fd67a824ba4b72cd7718b7626d02_project1.pdf
 file_size: 26719
 file_type: application/pdf
 learning_resource_types:
