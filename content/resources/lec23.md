@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an overview of system dynamics.
-file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/1ee1403e66dd11620b11f677d6984554_lec23.pdf
+file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/1ee1403e66dd11620b11f677d6984554_lec23.pdf
 file_size: 319921
 file_type: application/pdf
 learning_resource_types:
