@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on scenario planning. Includes introductory concepts and
   the Schwartz approach.
-file: /courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/8707ead4126a60e4aa65569e79d2f02f_lec21.pdf
+file: /ol-ocw-studio-app/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/8707ead4126a60e4aa65569e79d2f02f_lec21.pdf
 file_size: 143260
 file_type: application/pdf
 learning_resource_types:
