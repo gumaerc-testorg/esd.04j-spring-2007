@@ -193,7 +193,7 @@ Class summary, systems recap, student evaluations
 
 Drucker, Peter F. "Managing Oneself." _Harvard Business Review_ 77, no. 2 (1999): 64-74.
 
-Griffin, Michael. "[Speech by NASA Administrator Michael Griffin: System Engineering and the Two Cultures of Engineering](http://www.spaceref.com/news/viewsr.html?pid=23775)."
+Griffin, Michael. "{{% resource_link "e5ee159a-c835-43e1-8096-200d56eb5cc3" "Speech by NASA Administrator Michael Griffin: System Engineering and the Two Cultures of Engineering" %}}."
 
 Peter Drucker is arguably the inventor of modern management. He has been writing on this subject since the 50s in a highly prolific and clear manner. He has his fans (including me) and his detractors ("it's all really obvious"). In a subject like this one, in which the management of your own talents, those of your group members and those on other groups, will be central to your overall success, we thought you should be exposed to Drucker's thinking.
 
@@ -209,15 +209,15 @@ While this kind of article is never "on the test", there are some very valuable 
 Project References
 ------------------
 
-MIT Energy Research Council, Robert C. Armstrong, and Ernest J. Moniz. _Report of the Energy Research Council_. Cambridge, MA: MIT, 2006. ([PDF - 2.4 MB](http://web.mit.edu/mitei/about/erc-report-final.pdf))
+MIT Energy Research Council, Robert C. Armstrong, and Ernest J. Moniz. _Report of the Energy Research Council_. Cambridge, MA: MIT, 2006. ({{% resource_link "436cd3aa-59e2-4811-999c-904dff60045b" "PDF - 2.4 MB" %}})
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640381) Nye, David E. [_Consuming Power: A Social History of American Energies_](https://mitpress.mit.edu/9780262640381). Cambridge, MA: MIT Press, 1999. ISBN: 9780262640381.
+{{% resource_link "47e8abe6-3df9-444f-a7b6-4bdf62eaa3d0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nye, David E. {{% resource_link "47e8abe6-3df9-444f-a7b6-4bdf62eaa3d0" "_Consuming Power: A Social History of American Energies_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 9780262640381.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262582216) Hoffman, Peter. [_Tomorrow's Energy: Hydrogen, Fuel Cells, and the Prospects for a Cleaner Planet_](https://mitpress.mit.edu/9780262582216). Cambridge, MA: MIT Press, 2002. ISBN: 9780262582216.
+{{% resource_link "6ea10294-5bdb-4d69-b16c-ee5edf03f4d1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hoffman, Peter. {{% resource_link "6ea10294-5bdb-4d69-b16c-ee5edf03f4d1" "_Tomorrow's Energy: Hydrogen, Fuel Cells, and the Prospects for a Cleaner Planet_" %}}. Cambridge, MA: MIT Press, 2002. ISBN: 9780262582216.
 
 National Research Council. _Risk and Decisions: About Disposition of Transuranic and High-Level Radioactive Waste_. Washington, DC: National Academies Press, 2005. ISBN: 9780309095495.
 
-MIT Nuclear Energy Study Advisory Committee. _The Future of Nuclear Power: An Interdisciplinary MIT Study_. Cambridge, MA: MIT, 2003. ([PDF](http://web.mit.edu/nuclearpower/pdf/nuclearpower-summary.pdf))
+MIT Nuclear Energy Study Advisory Committee. _The Future of Nuclear Power: An Interdisciplinary MIT Study_. Cambridge, MA: MIT, 2003. ({{% resource_link "d0b8f760-1453-40cc-bdfd-e2874a579547" "PDF" %}})
 
 National Research Council. _Nuclear Wastes: Technologies for Separations and Transmutation_. Washington, DC: National Academies Press, 1996. ISBN: 9780309052269.
 
@@ -226,10 +226,10 @@ Additional Resources
 
 Ackoff, Russell L. "The Art and Science of Mess Management." _Interfaces_ 11, no. 1 (1978): 20-26.
 
-Ritchey, Tom. "Wicked Problems: Structuring Social Messes with Morphological Analysis." Swedish Morphological Society, 2005. ([PDF](http://swemorph.com/pdf/wp.pdf))
+Ritchey, Tom. "Wicked Problems: Structuring Social Messes with Morphological Analysis." Swedish Morphological Society, 2005. ({{% resource_link "df3e867f-1f23-4df3-bc59-f344ad256a65" "PDF" %}})
 
 Sussman, Joseph M. "Collected Views on Complexity in Systems." MIT Engineering Systems Division Working Paper Series. ({{% resource_link c17a5e1f-ecf4-d582-a51c-d5eba49bb5b5 "PDF" %}})
 
-[Radiation Quantities and Units](http://www.sprawls.org/ppmi2/RADQU/)
+{{% resource_link "ad7dfd07-4e86-4e6c-89f8-79cb06ac9c6e" "Radiation Quantities and Units" %}}
 
 Engineering Systems References ({{% resource_link 6197957a-79e6-8158-6536-64aa9ae32e50 "PDF" %}})
